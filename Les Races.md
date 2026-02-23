@@ -18,7 +18,6 @@ La race des hommes est la plus courante dans tous les royaumes. Ils sont très d
 La race des elfes est une race craintive et experte dans le camouflage. Ils ont une espérance de vie incomparable (environ 5 000 ans !!!) et sont considérés comme les créatures les plus anciennes de tous les royaumes. Les trois races d'elfes, les elfes des bois, les elfes sauvages et les drows utilisent un langage qui leur est propre, mais savent tout de même parler le nain et l'humain. Ils sont reconnus pour leur grande connaissance des arcanes. Les elfes sont aussi plus faibles physiquement que les autres races, quoique virtuellement intouchables. C'est une race mélancolique, qui pense plus au passé qu'au futur et n'offre généralement son aide qu'en cas de nécessité. Voici les sous race des elfes :
 
 [Elfes Noirs (Drows)](Les%20Races/Elfes%20Noirs%20(Drows).md)
-
 [Elfes de la Lune](Elfes%20de%20la%20Lune.md)
 [Elfes du Soleil](Elfes%20du%20Soleil.md)
 [Elfes Sauvages](Elfes%20Sauvages.md)

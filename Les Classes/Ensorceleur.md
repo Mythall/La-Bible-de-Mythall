@@ -12,7 +12,7 @@ Les ensorceleurs ne peuvent pas se spécialiser en magie comme le font les magic
 
 **Désavantages :** -1 en constitution. -1 en force. Ne se bat que très rarement au corps à corps, ne peut pas avoir d'armes lourdes, d'armures, ni d'armes de jet. Doit méditer pour régénérer ses points de mana. Quantité de sorts profanes connus est beaucoup moins importante que la classe de magicien (moins versatile).
 
-**Mutliclassement :** peuvent se multiclasser en [Barde](Barde.md), [Druide](Druide.md), [Guerrier](Guerrier.md), [Moine](Moine.md), [Paladin](Paladin.md), [Prêtre](Pr%C3%AAtre.md), [Rôdeur](R%C3%B4deur.md) et [Roublard](Roublard.md). Ne peuvent pas se multiclasser en [Barbare](Barbare.md), [Chaman](Chaman.md) et [Magicien](Magicien.md).
+**Mutliclassement :** peuvent se multiclasser en [Barde](./Barde.md), [Druide](./Druide.md), [Guerrier](./Guerrier.md), [Moine](./Moine.md), [Paladin](./Paladin.md), [Prêtre](Pr%C3%AAtre.md), [Rôdeur](R%C3%B4deur.md) et [Roublard](./Roublard.md). Ne peuvent pas se multiclasser en [Barbare](./Barbare.md), [Chaman](./Chaman.md) et [Magicien](./Magicien.md).
 
 **Capacités Spéciales :** Sang Draconique (2, 4, 6, 8, 10, 12, 14, 16, 18, 20), Chef de Grand Cercle (20)
 

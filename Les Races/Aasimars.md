@@ -10,7 +10,7 @@
 
 **Désavantage :** Ajustement de niveau : +1
 
-**Classes autorisées :** [Guerrier](Guerrier.md), [Barbare](Barbare.md), [Prêtre](Prêtre.md), [Druide](Druide.md), [Paladin](Paladin.md), [Rôdeur](Rôdeur.md), [Magicien](Magicien.md), [Moine](Moine.md), [Barde](Barde.md), [Chaman](Chaman.md), [Ensorceleur](Ensorceleur.md), [Roublard](Roublard.md)
+**Classes autorisées :** [Guerrier](../Les%20Classes/Guerrier.md), [Barbare](../Les%20Classes/Barbare.md), [Prêtre](Prêtre.md), [Druide](../Les%20Classes/Druide.md), [Paladin](../Les%20Classes/Paladin.md), [Rôdeur](Rôdeur.md), [Magicien](../Les%20Classes/Magicien.md), [Moine](../Les%20Classes/Moine.md), [Barde](../Les%20Classes/Barde.md), [Chaman](../Les%20Classes/Chaman.md), [Ensorceleur](../Les%20Classes/Ensorceleur.md), [Roublard](../Les%20Classes/Roublard.md)
 
 **Classes défendues :** Aucune
 

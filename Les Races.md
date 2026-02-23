@@ -8,9 +8,9 @@ Certaines races procurent une profession gratuite. Ces professions ne comptent p
 
 La race des hommes est la plus courante dans tous les royaumes. Ils sont très débrouillards et très adaptatifs. Ils ont la plus courte espérance de vie par contre. Leur plus grande force réside dans leur expansionnisme et leur curiosité. Leur énorme savoir faire leur permettent de faire pratiquement toutes les classes possibles. Voici les sous races des hommes
 
-[Humains](Humains.md)
-[Aasimars](Aasimars.md)
-[Thiefelins](Thiefelins.md)
+[Humains](./Les%20Races/Humains.md)
+[Aasimars](./Les%20Races/Aasimars.md)
+[Thiefelins](./Les%20Races/Thiefelins.md)
 [Genasi (Feu, Air ou Terre)](Les%20Races/Genasi%20(Feu,%20Air%20ou%20Terre).md)
 
 ## Les Elfes
@@ -37,15 +37,15 @@ Les petites gens sont des êtres espiègles, de la hauteur des nains, mais qui n
 
 Voici les sous-races des petites gens :
 
-[Hobbits](Hobbits.md)
-[Gnomes](Gnomes.md)
+[Hobbits](./Les%20Races/Hobbits.md)
+[Gnomes](./Les%20Races/Gnomes.md)
 
 ## Autres Races
 
 [Demi Elfes](Demi%20Elfes.md)
-[Demi-Orques](Demi-Orques.md)
-[Orques](Orques.md)
-[Ogres](Ogres.md)
-[Gobelins](Gobelins.md)
-[Kobolds](Kobolds.md)
-[Yuan-ti](Yuan-ti.md)
+[Demi-Orques](./Les%20Races/Demi-Orques.md)
+[Orques](./Les%20Races/Orques.md)
+[Ogres](./Les%20Races/Ogres.md)
+[Gobelins](./Les%20Races/Gobelins.md)
+[Kobolds](./Les%20Races/Kobolds.md)
+[Yuan-ti](./Les%20Races/Yuan-ti.md)

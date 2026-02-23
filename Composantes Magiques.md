@@ -12,21 +12,21 @@ Il y a deux façons distinctes d'obtenir cette composante. Comme son nom l'indiq
 
 **2. Sang d'Ange**
 
-Les anges sont réputés pour avoir une essence magique qui coule dans leurs veines particulièrement efficace en ce qui à trait à la magie défensive. Aussi tentant que cela puisse paraître, le sang des [Aasimars](Aasimars.md) est beaucoup trop dilué pour pouvoir être d'une quelconque utilité pour obtenir cette composante. Par contre, seules quelques gouttes sont nécessaires pour la fabrication d'objets. En avoir plus en sa possession reviendrait à se mettre à dos les puissances angéliques. *Cette composante est très rare car il faut qu'un animateur joue le rôle d'un ange lors de l'événement.* Aussi tentant que cela puisse paraître, le sang des Aasimars est beaucoup trop dilué pour pouvoir être d'une quelconque utilité pour obtenir cette composante.
+Les anges sont réputés pour avoir une essence magique qui coule dans leurs veines particulièrement efficace en ce qui à trait à la magie défensive. Aussi tentant que cela puisse paraître, le sang des [Aasimars](./Les%20Races/Aasimars.md) est beaucoup trop dilué pour pouvoir être d'une quelconque utilité pour obtenir cette composante. Par contre, seules quelques gouttes sont nécessaires pour la fabrication d'objets. En avoir plus en sa possession reviendrait à se mettre à dos les puissances angéliques. *Cette composante est très rare car il faut qu'un animateur joue le rôle d'un ange lors de l'événement.* Aussi tentant que cela puisse paraître, le sang des Aasimars est beaucoup trop dilué pour pouvoir être d'une quelconque utilité pour obtenir cette composante.
 
 **3. Écailles de Yuan-ti**
 
-Les [Yuan-ti](Yuan-ti.md), cette puissante [Les Races](Les%20Races.md) humanoïde ayant des traits reptiliens a subit une évolution contrôlée par mutation magique. Ils ont également utilisé d'autres techniques pour contrôler leur évolution, mais il reste que leurs écailles ont toujours des propriétés protectrices lorsque utilisées convenablement. La peau morte d'un [Yuan-ti](Yuan-ti.md) qui vient d'utiliser Muance ne peut servir de composante car son potentiel magique a été utilisé pour guérir la créature avant de se détacher. De gré ou de force, il est possible de prendre les écailles sur une créature (joueur ou mob). L'équivalent d'écorcher quelqu'un bref. *La créature subit l'équivalent du [Sorts](Sorts.md) [Dépeçage](Dépeçage.md) : tout les pvs enlevés, sauf 1 au torse et 1 à chaque jambe.*
+Les [Yuan-ti](./Les%20Races/Yuan-ti.md), cette puissante [Les Races](Les%20Races.md) humanoïde ayant des traits reptiliens a subit une évolution contrôlée par mutation magique. Ils ont également utilisé d'autres techniques pour contrôler leur évolution, mais il reste que leurs écailles ont toujours des propriétés protectrices lorsque utilisées convenablement. La peau morte d'un [Yuan-ti](./Les%20Races/Yuan-ti.md) qui vient d'utiliser Muance ne peut servir de composante car son potentiel magique a été utilisé pour guérir la créature avant de se détacher. De gré ou de force, il est possible de prendre les écailles sur une créature (joueur ou mob). L'équivalent d'écorcher quelqu'un bref. *La créature subit l'équivalent du [Sorts](./Sorts.md) [Dépeçage](Dépeçage.md) : tout les pvs enlevés, sauf 1 au torse et 1 à chaque jambe.*
 
 ## Composantes reliées à la Conjuration
 
 **1. Cérumen de Gobelin**
 
-Aussi absurde que cela puisse paraître, la cire d'oreille des [Gobelins](Gobelins.md) a une propriété disruptive si appliquée directement à la Toile. *Pour s'en procurer, enfoncer un doigt ou un coton-tige improvisé dans l'oreille d'un gobelin (joueur ou mob) et bien gratter le fond*. Notez bien que la réaction du gobelin peut varier entre se débattre, mordre, vous cracher au visage, voler votre cire d'oreille à la prochaine occasion ou bien tout simplement vous en donner plus que vous l'auriez voulu.
+Aussi absurde que cela puisse paraître, la cire d'oreille des [Gobelins](./Les%20Races/Gobelins.md) a une propriété disruptive si appliquée directement à la Toile. *Pour s'en procurer, enfoncer un doigt ou un coton-tige improvisé dans l'oreille d'un gobelin (joueur ou mob) et bien gratter le fond*. Notez bien que la réaction du gobelin peut varier entre se débattre, mordre, vous cracher au visage, voler votre cire d'oreille à la prochaine occasion ou bien tout simplement vous en donner plus que vous l'auriez voulu.
 
 **2. Mucus d'Orque**
 
-Le crachat d'[Orques](Orques.md) a longtemps été craint de tout lanceur de sorts car une rumeur voulait qu'elle puisse annuler tout les [Sorts](Sorts.md). L'expérimentation empirique du phénomène a prouvé qu'il n'en était rien. Mais comme toute rumeur a un fond de vérité, a été découvert une propriété anti-magique au mucus d'orque lorsqu'il entre en contact avec l'air. *Pour s'en procurer, vous pouvez extraire vous même la substance du pif d'une créature de cette race*. Si l'humeur vous en dit, vous pouvez également vous risquer à demander de déposer quelques crachats dans votre éprouvette ou autre contenant servant à le recueillir.
+Le crachat d'[Orques](./Les%20Races/Orques.md) a longtemps été craint de tout lanceur de sorts car une rumeur voulait qu'elle puisse annuler tout les [Sorts](./Sorts.md). L'expérimentation empirique du phénomène a prouvé qu'il n'en était rien. Mais comme toute rumeur a un fond de vérité, a été découvert une propriété anti-magique au mucus d'orque lorsqu'il entre en contact avec l'air. *Pour s'en procurer, vous pouvez extraire vous même la substance du pif d'une créature de cette race*. Si l'humeur vous en dit, vous pouvez également vous risquer à demander de déposer quelques crachats dans votre éprouvette ou autre contenant servant à le recueillir.
 
 **3. Ectoplasme**
 
@@ -78,7 +78,7 @@ Il y a deux façons de trouver cette composante. On peut soit la créer, soit *l
 
 **1. Souffle de Génie**
 
-Cette composante peut être difficile à se procurer. En effet, les génies sont plutôt rares, mais au moins, la composante peut être récupérée sur n'importe quel type de génie (éfrit, djinn ou jann). Les génies convoqués à l'aide du [Sorts](Sorts.md) [Convocation de Génie](Convocation%20de%20Génie.md) peuvent être utilisés pour recueillir la composante. *On doit mettre le dernier souffle (celui qui précède la mort) du génie dans une fiole ou autre contenant*. Les génies convoqués à l'aide du sort Convocation de Génie peuvent être utilisés pour recueillir la composante. Sinon, il faut qu'un animateur joue le rôle d'un génie.
+Cette composante peut être difficile à se procurer. En effet, les génies sont plutôt rares, mais au moins, la composante peut être récupérée sur n'importe quel type de génie (éfrit, djinn ou jann). Les génies convoqués à l'aide du [Sorts](./Sorts.md) [Convocation de Génie](Convocation%20de%20Génie.md) peuvent être utilisés pour recueillir la composante. *On doit mettre le dernier souffle (celui qui précède la mort) du génie dans une fiole ou autre contenant*. Les génies convoqués à l'aide du sort Convocation de Génie peuvent être utilisés pour recueillir la composante. Sinon, il faut qu'un animateur joue le rôle d'un génie.
 
 **2. Poussière Lumineuse**
 
@@ -120,12 +120,12 @@ Il est relativement simple et douloureux de se procurer un tel item. Peu importe
 
 **1. Mains de Mage**
 
-Ce n'est pas n'importe quel [Magicien](Magicien.md) qui va être prêt à vous donner ce genre de coup de main, mais bon, ce n'est pas toujours de son ressort. Une main tranchée est l'équivalent d'un effet de [**Liste des effets néfastes**](Liste%20des%20effets%20n%C3%A9fastes.md) sur le membre relié à la main. *La main d'un [Magicien](Magicien.md), peu importe la spécialisation ou celle d'un [Ensorceleur](Ensorceleur.md) peu faire l'affaire pour cette composante.*
+Ce n'est pas n'importe quel [Magicien](./Les%20Classes/Magicien.md) qui va être prêt à vous donner ce genre de coup de main, mais bon, ce n'est pas toujours de son ressort. Une main tranchée est l'équivalent d'un effet de [**Liste des effets néfastes**](Liste%20des%20effets%20n%C3%A9fastes.md) sur le membre relié à la main. *La main d'un [Magicien](./Les%20Classes/Magicien.md), peu importe la spécialisation ou celle d'un [Ensorceleur](./Les%20Classes/Ensorceleur.md) peu faire l'affaire pour cette composante.*
 
 **2. Dent de Lycanthrope**
 
-Peu importe le type de [Lycanthrope](Lycanthrope.md) utilisé, il suffit de lui arracher une dent pour obtenir cette composante.
+Peu importe le type de [Lycanthrope](./Les%20Archétypes/Lycanthrope.md) utilisé, il suffit de lui arracher une dent pour obtenir cette composante.
 
 **3. Dent de Vampire**
 
-Pas nécessairement les canines. N'importe quelle dent fait l'affaire d'un [Vampire](Vampire.md).
+Pas nécessairement les canines. N'importe quelle dent fait l'affaire d'un [Vampire](./Les%20Archétypes/Vampire.md).

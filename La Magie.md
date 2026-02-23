@@ -1,6 +1,6 @@
 # La Magie
 
-À Mythall, la Magie est très présente. Certains personnages et certaines [Les Classes](Les%20Classes.md) ne l'apprécient pas particulièrement, mais de façon générale, tout le monde y touche un peu, que ce soit de façon directe ou indirecte. La section qui suit s'adresse surtout aux joueurs qui veulent s'aventurer dans le domaine de la magie et devenir un lanceur de sorts. Toutes les précisions relatives à la magie s'y trouvent. Par contre, le nombre de [Sorts](Sorts.md) étant relativement élevé et leurs effets très variés, nous avons créé une section de la Bible qui contient la [Sorts](Sorts.md).
+À Mythall, la Magie est très présente. Certains personnages et certaines [Les Classes](Les%20Classes.md) ne l'apprécient pas particulièrement, mais de façon générale, tout le monde y touche un peu, que ce soit de façon directe ou indirecte. La section qui suit s'adresse surtout aux joueurs qui veulent s'aventurer dans le domaine de la magie et devenir un lanceur de sorts. Toutes les précisions relatives à la magie s'y trouvent. Par contre, le nombre de [Sorts](./Sorts.md) étant relativement élevé et leurs effets très variés, nous avons créé une section de la Bible qui contient la [Sorts](./Sorts.md).
 
 ---
 
@@ -18,7 +18,7 @@ Branche de la magie qui comporte tout ce qui est magie défensive et les sorts a
 
 Branche de la magie qui sert à annuler les enchantements et à repousser les démons et morts-vivants.
 
-**Sorts très connus :** *[Dissipation de la Magie](Sorts/Dissipation%20de%20la%20Magie.md), [Délivrance des Malédictions](Sorts/Délivrance%20des%20Malédictions.md), [Renvoi](Sorts/Renvoi.md)*
+**Sorts très connus :** *[Dissipation de la Magie](Sorts/Dissipation%20de%20la%20Magie.md), [Délivrance des Malédictions](Sorts/Délivrance%20des%20Malédictions.md), [Renvoi](./Sorts/Renvoi.md)*
 
 ### 3. Divination
 
@@ -66,31 +66,23 @@ Branche de la magie qui comporte les sorts pouvant transformer la réalité phys
 
 ## Symboles des Écoles de Magie
 
-Tout lanceur de sorts profane ([Magicien](Magicien.md) et [Barde](Barde.md)) devront lancer leur sort en utilisant une composante gestuelle, un signe qu'il faut tracer dans les airs en même temps que de prononcer l'incantation.
+Tout lanceur de sorts profane ([Magicien](./Les%20Classes/Magicien.md) et [Barde](./Les%20Classes/Barde.md)) devront lancer leur sort en utilisant une composante gestuelle, un signe qu'il faut tracer dans les airs en même temps que de prononcer l'incantation.
 
 > **Important :** La gestuelle doit être grande et précise, elle doit, au minimum, être aussi large que le corps du lanceur.
 
-Chaque école de magie doit être représentée par un symbole qui lui est propre. Par exemple, un [Magicien](Magicien%202b0eecdc60df809190fcce6e788847fc.md) désirant lancer le [Sorts](Sorts%202b0eecdc60df801087f8efdb3a109ffd.md) *[Armure de Mage](Armure%20de%20Mage%208cec433969a0426fbaada81b627bb33b.md)*, un sort provenant de l'école de l'abjuration, devra prononcer l'incantation de ce sort tout en traçant dans les airs le symbole associé à l'école de l'abjuration.
+Chaque école de magie doit être représentée par un symbole qui lui est propre. Par exemple, un Magicien désirant lancer le Sorts *[Armure de Mage](Sorts/Armure%20de%20Mage.md)*, un sort provenant de l'école de l'abjuration, devra prononcer l'incantation de ce sort tout en traçant dans les airs le symbole associé à l'école de l'abjuration.
 
 Voici les différents symboles reliés aux écoles de magie et leurs descriptions. Une courte pause doit être observée entre chaque étape lors du traçage du symbole.
 
-[Abjuration](Abjuration%202b0eecdc60df806a8ecef84dc7568536.md)
-
-[Conjuration](Conjuration%202b0eecdc60df80218d33d57c93a1e60f.md)
-
-[Divination](Divination%202b0eecdc60df80b0b501fdefd8ad7586.md)
-
-[Enchantement](Enchantement%202b0eecdc60df80ed8b69e8fa695e7187.md)
-
-[Évocation](Évocation%202b0eecdc60df8041b8a2e39979ae6b55.md)
-
-[Illusion](Illusion%202b0eecdc60df809c8610d938d6879667.md)
-
-[Invocation](Invocation%202b0eecdc60df80d49ef1dd2d18e0107e.md)
-
-[Nécromancie](Nécromancie%202b0eecdc60df804abc5cdf5277cd65e9.md)
-
-[Transmutation](Transmutation%202b0eecdc60df80028435fb09a90be198.md)
+[Abjuration](La%20Magie/Abjuration.md)
+[Conjuration](La%20Magie/Conjuration.md)
+[Divination](La%20Magie/Divination.md)
+[Enchantement](La%20Magie/Enchantement.md)
+[Évocation](La%20Magie/Évocation.md)
+[Illusion](La%20Magie/Illusion.md)
+[Invocation](La%20Magie/Invocation.md)
+[Nécromancie](La%20Magie/Nécromancie.md)
+[Transmutation](La%20Magie/Transmutation.md)
 
 ---
 
@@ -145,7 +137,7 @@ Les incantations profanes doivent être lancées avec l'incantation en langage d
 
 ## Écoles de Magie Interdites (Magiciens seulement)
 
-Un magicien qui se spécialise dans une école de magie (voir classe de magicien) va automatiquement obtenir des écoles interdites qui seront déterminées par son école de spécialisation. Un [Magicien](Magicien%202b0eecdc60df809190fcce6e788847fc.md) ne peut pas recopier de parchemin, ni utiliser de [Sorts](Sorts%202b0eecdc60df801087f8efdb3a109ffd.md) qui font partie de ses écoles interdites. Il peut cependant bénéficier des effets si quelqu'un d'autre lui lance un sort de cette école.
+Un magicien qui se spécialise dans une école de magie (voir classe de magicien) va automatiquement obtenir des écoles interdites qui seront déterminées par son école de spécialisation. Un [Magicien](Les%20Classes/Magicien.md) ne peut pas recopier de parchemin, ni utiliser de Sorts qui font partie de ses écoles interdites. Il peut cependant bénéficier des effets si quelqu'un d'autre lui lance un sort de cette école.
 
 Ces écoles interdites ne sont pas choisies en fonction d'une relation inverse/contraire entre les écoles. Il faut voir ces restrictions comme le fait que votre personnage n'a pas le temps de se consacrer à toutes les branches de la magie et qu'il doit en sacrifier quelques-unes. Le choix est déterminé à l'avance pour une question de balance.
 

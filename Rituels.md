@@ -2,7 +2,7 @@
 
 Un rituel est une occasion pour louanger son dieu, de produire un effet magique d'envergure ou de tout simplement avoir du plaisir à faire du rôle-play. Il existe deux types de résultats à un rituel:
 
-**1. Un rituel où le chef de cérémonie peut affecter un groupe d'individus avec un de ses propres [Sorts](Sorts.md) gratuitement**, sans prendre compte des restrictions de portée et de zone d'effet. De ce fait, il est possible, par exemple, de faire bénéficier au groupe d'un [Sorts](Sorts.md) de portée personnelle. Pour ce faire, il suffit d'atteindre 20 points de rituels (PR) par niveau de sort.
+**1. Un rituel où le chef de cérémonie peut affecter un groupe d'individus avec un de ses propres [Sorts](./Sorts.md) gratuitement**, sans prendre compte des restrictions de portée et de zone d'effet. De ce fait, il est possible, par exemple, de faire bénéficier au groupe d'un [Sorts](./Sorts.md) de portée personnelle. Pour ce faire, il suffit d'atteindre 20 points de rituels (PR) par niveau de sort.
 
 **2. Faire certains effets divers.** Voici une liste d'effets possibles :
 

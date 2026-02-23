@@ -9,9 +9,9 @@
 - Malus d'Intelligence -1
 - Malus de Sagesse: -1 (un orque est très stupide (RP))
 
-**Classes autorisées :** [Guerrier](Guerrier.md), [Barbare](Barbare.md), [Chaman](Chaman.md) et [Roublard](Roublard.md)
+**Classes autorisées :** [Guerrier](../Les%20Classes/Guerrier.md), [Barbare](../Les%20Classes/Barbare.md), [Chaman](../Les%20Classes/Chaman.md) et [Roublard](../Les%20Classes/Roublard.md)
 
-**Classes défendues :** [Prêtre](Prêtre.md), [Paladin](Paladin.md), [Druide](Druide.md), [Rôdeur](Rôdeur.md), [Magicien](Magicien.md), [Moine](Moine.md), [Barde](Barde.md), [Ensorceleur](Ensorceleur.md)
+**Classes défendues :** [Prêtre](Prêtre.md), [Paladin](../Les%20Classes/Paladin.md), [Druide](../Les%20Classes/Druide.md), [Rôdeur](Rôdeur.md), [Magicien](../Les%20Classes/Magicien.md), [Moine](../Les%20Classes/Moine.md), [Barde](../Les%20Classes/Barde.md), [Ensorceleur](../Les%20Classes/Ensorceleur.md)
 
 **Description :** Les orques sont des humanoïdes agressifs vivant de pillage et de maraudage. Depuis toujours, ils haïssent les elfes et les nains, qu'ils attaquent presque toujours à vue. Ils ont généralement les cheveux noirs. Leurs yeux sont rouges et leurs oreilles semblables à celles d'un loup. Ils portent des couleurs flamboyantes que la majorité des humains trouvent déplaisantes (rouge sang, jaune moutarde, vert-jaune ou mauve foncé). Leur équipement est sale et mal entretenu.
 

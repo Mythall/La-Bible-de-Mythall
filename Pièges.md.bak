@@ -1,0 +1,140 @@
+# Pièges
+
+Les pièges sont des dispositifs mécaniques ou magiques que les [Roublard](./Les Classes/Roublard.md) et [Barde](./Les Classes/Barde.md) peuvent confectionner, poser, détecter et désamorcer grâce à leurs [**Fourberies**](./Fourberies.md).
+
+## Confection de piège
+
+Les pièges peuvent être posés par les personnages détenant la fourberie *Confection de Pièges*.
+
+La confection d'un piège prend **1 minute par niveau de piège**. Les pièges nécessitent certaines composantes pour leur confection et sont déclenchés au toucher. Il y a 10 niveaux de pièges. Lorsque le piège est posé, les composantes doivent y être mises également.
+
+Afin de poser un piège à une place autre que dans un coffre ou une porte, le poseur de piège doit mettre un petit fil, à la hauteur du torse, auquel il suspend le papier décrivant l'effet du piège.
+
+## Détection de piège
+
+Les pièges peuvent être vus par les personnages détenant la fourberie *Détection de piège*.
+
+## Désamorçage de piège
+
+Les pièges peuvent être désamorcés par les personnages détenant la fourberie *Désamorçage de piège*.
+
+## Exceptions
+
+Le poseur de piège peut permettre à certains joueurs d'outrepasser le piège en créant une section exception sur le papier du piège. Le poseur du piège peut ne pas déclencher son propre piège mais il peut en subir les effets s'il se trouve dans la zone d'effet lors du déclenchement.
+
+## Spécificité des pièges
+
+### Remise en Place Manuelle
+
+Une fois activé, le piège est détruit et les composantes magiques également. Les composantes mécaniques sont toutefois désassemblées, mais toujours présentes.
+
+À écrire sur le papier : « Une fois activé, le piège est détruit. Déchirez le papier. »
+
+Les pièges ont une durée maximale d'un événement, qu'ils soient posés ou non.
+
+### Remise en Place Automatique
+
+Le piège se répare de lui-même sans que le personnage n'ait besoin de faire quoi que ce soit.
+
+À écrire sur le papier : « remise en place automatique ».
+
+Les pièges ont une durée invariable d'un événement, qu'ils soient posés ou non.
+
+### Composantes mécaniques
+
+Chaque niveau de piège nécessite une pièce par niveau pour la fabrication. Chaque ressource se cumule avec les niveaux précédents. Exemple, un piège de niveau 3 exige deux ressorts et une aiguille.
+
+| Niveau | Pièce |
+| --- | --- |
+| 1 et 2 | Aiguille |
+| 3 et 4 | Ressort |
+| 5 et 6 | Fer (minerai de fer, avec 5 min de travail à la forge) |
+| 7 et 8 | Argent (minerai d'argent, avec 5 min de travail à la forge) |
+| 9 et 10 | Clés |
+
+> **Important :** Les pièges ne se conservent pas entre les événements.
+> 
+
+Les composantes mécaniques d'un piège sont toujours réutilisables et peuvent être récupérés une fois un piège désamorcé à l'aide de la fourberie *Désamorçage* ou bien une fois le piège déclenché (dans le cas où le piège n'a pas de remise en place automatique). Le poison doit être fourni également pour les pièges empoisonnés.
+
+### Composantes Magiques
+
+Les composantes magiques d'un piège sont toujours détruites et ne peuvent pas être récupérés une fois le piège désamorcé ou déclenché (dans le cas où le piège n'a pas de remise en place automatique). Il suffit d'avoir une composante magique de l'école indiquée.
+
+### Sorts
+
+Il est parfois nécessaire qu'un sort soit lancé sur le piège pour qu'il soit actif. Le sort peut se lancer à n'importe quel moment : pendant la confection ou avant, pendant, après la pose du piège. Le piège ne fonctionnera tout simplement pas avant qu'il reçoive le sort mentionné. Il n'est pas nécessaire que ce soit le personnage qui confectionne le piège qui lance le sort.
+
+### Méthode de déclenchement
+
+Il y a 3 façons distinctes de déclencher un piège et chaque façon va influencer l'endroit où le papier du piège va être posé.
+
+**1. Ouverture** : se déclenche à l'ouverture ou fermeture d'un coffre. Placer le papier à l'intérieur du coffre.
+
+**2. Contact** : se déclenche lorsqu'on touche l'objet piégé. Placer le papier à l'extérieur de l'objet.
+
+**3. Espace** : se déclenche lorsqu'on rentre dans l'endroit piégé. Placer le papier en suspension à la hauteur du torse (pas les pieds, ni le visage).
+
+---
+
+## Liste des pièges
+
+### Niveau 1
+
+- **Aiguille Empoisonnée** : piège mécanique, déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +0. **Effet** : applique un poison sur la personne qui déclenche le piège.
+- **Fil tranchant au travers d'un couloir** : Piège mécanique, déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège + 0. **Effet** : cause 2 dégâts aux jambes des personnes qui passent dans l'endroit piégé.
+- **Poignée de porte empoisonnée** : Piège mécanique, déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +0. **Effet** : applique un poison sur la personne qui déclenche le piège.
+
+### Niveau 2
+
+- **Cryostase** : piège mécanique, déclenchement contact, remise en place automatique. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +0. **Effet** : faiblesse 5 minutes.
+- **Grand Filet** : piège mécanique, déclenchement ouverture, remise en place manuelle. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +0. **Effet** : Lutte 6 sinon ancrage 2 minutes.
+- **Brique dans un lance pierre** : piège mécanique, déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège + 1; **Désamorçage** : niveau piège +1. **Effet** : 1 au torse, répulsion, renversement et sommeil 5 secondes.
+
+### Niveau 3
+
+- **Volée d'aiguille** : piège mécanique, déclenchement espace, remise en place manuelle. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +1. **Effet** : 1 perforant sur toutes les parties du corps sur 3m de rayon.
+- **Flèche empoisonnée** : piège mécanique, déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +2. **Effet** : 2 dégâts perce-armure au torse + poison.
+- **Balancier fixé au plafond** : piège mécanique, déclenchement espace, remise en place automatique. Nécessite un plafond. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +2. **Effet** : 3 contondant au torse, répulsion, renversement.
+
+### Niveau 4
+
+- **Bulle d'eau** : piège magique (Transmutation), déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +1. **Effet** : 3m de rayon, les personnes affectées doivent retenir leur respiration pendant 1 minutes sous peine de mourir asphyxié.
+- **Faux dissimulée dans un mur** : piège mécanique, déclenchement espace, remise en place automatique. Nécessite un mur. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +0. **Effet**: 2 dégâts tranchants au torse, si la cible tombe à 0 PV, mort instantanée par décapitation.
+- **Aiguille empoisonnée supérieure** : piège mécanique, déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +1. **Effet** : applique un poison sur la personne qui déclenche le piège.
+
+### Niveau 5
+
+- **Assassin Imaginaire** : piège magique (Illusion), déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +2. **Effet** : si le personnage qui déclenche le piège a -1 en sagesse ou moins, terreur 2 minutes. Si le personnage qui déclenche le piège a -1 en constitution ou moins, tombe à l'agonie.
+- **Boule de feu de Madrad** : piège magique (Évocation), déclenchement contact, remise en place automatique. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +2. **Effet** : 2 de feu partout et répulsion.
+- **Volée de fléchettes** : piège mécanique, déclenchement espace, remise en place manuelle. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +2. **Effet** : 1 perce-armure sur toutes les parties du corps, 3m de rayon.
+
+### Niveau 6
+
+- **Glyphe de garde** : piège magique (Évocation), déclenchement contact, remise en place manuelle. C'est une rune (donc pas de désamorçage sauf pour les lanceurs de runes et autres qui peuvent désamorcer les runes). **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +2. **Effet** : 1 magique partout et confusion pendant 5 minutes, 3m de rayon.
+- **Lames empoisonnées tourbillonnantes** : piège mécanique, déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +1. **Effet** : applique 2 poisons différents sur toutes les cibles à 3m de rayon.
+- **Marque du chasseur** : piège magique (Divination), déclenchement ouverture, remise en place manuelle. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +2. **Effet** : la personne qui déclenche le piège doit mettre son nom et nom de personnage dans le coffre. Le poseur de piège gagne alors les bonus d'ennemi juré III contre cette personne.
+
+### Niveau 7
+
+- **Éclairs en séries** : piège magique (évocation), déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +2. **Effet** : 1 de foudre au torse sur la personne qui déclenche le piège. L'éclair rebondit sur la personne la plus près à moins de 5m, lui fait 1 de foudre au torse et revient ensuite à la première cible. L'éclair touche 5 fois sa cible ainsi. S'il n'y a personne à moins de 5m, seul l'éclair d'origine se produit.
+- **Serrure empoisonnée** : piège mécanique, déclenchement contact, remise en place automatique. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +0. **Effet** : applique un poison sur la personne qui déclenche le piège.
+- **Vapeur d'Othur brûlée** : piège mécanique, déclenchement espace, remise en place manuelle. **Détection des pièges** : niveau piège +1; **Désamorçage** : niveau piège +1. **Effet** : tout le monde dans un rayon de 3m subit un effet de poison, ainsi qu'un effet permanent de cécité et silence (brûle la cornée et la gorge). L'effet de silence et de poison n'affectent pas les personnes qui ne respirent pas.
+
+### Niveau 8
+
+- **Brume de folie** : piège mécanique, déclenchement espace, remise en place manuelle. **Détection des pièges** : niveau piège +3; **Désamorçage** : niveau piège +1. **Effet** : tout le monde dans un rayon de 5m subit un effet de poison, ainsi qu'un effet de confusion d'une durée de 15 minutes. L'effet de poison et de confusion n'affectent pas les personnes qui ne respirent pas.
+- **Destruction** : piège magique (Nécromancie), déclenchement ouverture, remise en place manuelle. **Détection des pièges** : niveau piège +0; **Désamorçage** : niveau piège +0. **Effet** : la personne qui déclenche le piège subit un effet de mort instantanée (ne passe pas par l'état d'agonie).
+- **Inversion de la gravité** : piège magique (Transmutation), déclenchement contact, remise en place automatique. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +3. **Effet** : la cible devient hors jeu pendant 10 secondes, puis effet de renversement, fracture sur les 4 membres et 2 dégâts au torse.
+
+### Niveau 9
+
+- **Nuage incendiaire** : piège magique (Invocation), déclenchement ouverture, remise en place automatique. **Détection des pièges** : niveau piège +3; **Désamorçage** : niveau piège +3. **Effet** : crée une zone statique de 3m de rayon pendant 1 minute, qui fait 2 dégâts de feu sur toutes les parties du corps à toutes les secondes.
+- **Implosion** : piège magique (Évocation), déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège +3; **Désamorçage** : niveau piège +3. **Effet** : sur la personne qui déclenche le piège, effet d'ancrage pendant 5 secondes. Cause 1 dégât magique sur toutes les parties du corps à toutes les secondes pendant 5 secondes.
+- **Tremblement de terre** : piège magique (Évocation), déclenchement ouverture, remise en place manuelle. **Détection des pièges** : niveau piège +3; **Désamorçage** : niveau piège +3. **Effet** : fracture sur les deux jambes de toutes personne à 5m de rayon.
+
+### Niveau 10
+
+- **Absorption d'Énergie** : piège magique (Nécromancie), déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège +2; **Désamorçage** : niveau piège +2. **Effet** : Donne une vie maudite.
+- **Plainte d'Outre-tombe** : piège magique (Nécromancie), déclenchement contact, remise en place manuelle. **Détection des pièges** : niveau piège +3; **Désamorçage** : niveau piège +1. **Effet** : celui qui déclenche le piège doit crier de toutes ses forces. Toute personne qui entend le cri dans un rayon de 5m tombe instantanément à l'agonie.
+- **Amplificateur gravitationnel** : piège mécanique et magique (Transmutation), déclenchement espace, remise en place automatique. **Détection des pièges** : niveau piège +3; **Désamorçage** : niveau piège +3. **Effet** : toutes les personnes à 5m de rayon sont écrasés par terre et doivent ramper pour se déplacer pour les 15 prochaines minutes.

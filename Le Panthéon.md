@@ -1,6 +1,6 @@
 # Le Panthéon
 
-Mythall est un grandeur nature médiéval fantastique qui utilise uniquement le panthéon de *Forgotten Realms*. Choisir une divinité va vous aider à concevoir votre jeu de rôle en vous informant des dogmes de votre divinité, sans négliger l'histoire et les relations qu'elle entretient avec les autres dieux et déesses. Voir aussi [Lieux de Culte](Lieux%20de%20Culte.md) et [Rituels](Rituels.md).
+Mythall est un grandeur nature médiéval fantastique qui utilise uniquement le panthéon de *Forgotten Realms*. Choisir une divinité va vous aider à concevoir votre jeu de rôle en vous informant des dogmes de votre divinité, sans négliger l'histoire et les relations qu'elle entretient avec les autres dieux et déesses. Voir aussi [Lieux de Culte](Lieux%20de%20Culte.md) et [Rituels](./Rituels.md).
 
 ## La vie dans un univers polythéiste
 
@@ -8,7 +8,7 @@ La plupart des religions auxquelles nous sommes confrontés dans la vie de tous 
 
 Pour simplifier, les dieux, c'est comme des papas. Tout le monde à un papa, ça tout le monde le sait. Mais le mien (mon dieu) est plus fort que le tien!
 
-Pour mieux être en symbiose avec votre culte, vous devez choisir une divinité ayant le même [Alignement](Alignement.md) que votre personnage ou bien un maximum d'un cran de différence sur l'axe Loyal-Chaotique et Bon-Mauvais.
+Pour mieux être en symbiose avec votre culte, vous devez choisir une divinité ayant le même [Alignement](./Alignement.md) que votre personnage ou bien un maximum d'un cran de différence sur l'axe Loyal-Chaotique et Bon-Mauvais.
 
 Il y a 30 divinités parmi lesquelles on peut choisir sa divinité patronne. Ces divinités ont été choisies pour une diversité de domaines d'attribution et d'alignement, et parfois par souci de parité et de réflexion (divinités de la triade, dichotomie entre chance et malchance, lumière et obscurité, etc.).
 
@@ -22,33 +22,33 @@ Notez que la puissance d'un dieu est directement liée au nombre de ses fidèles
 
 ## Les Divinités
 
-[Aurile](Aurile.md)
-[Baine](Baine.md)
-[Beshaba](Beshaba.md)
+[Aurile](./Le%20Panthéon/Aurile.md)
+[Baine](./Le%20Panthéon/Baine.md)
+[Beshaba](./Le%20Panthéon/Beshaba.md)
 [Corellon Larethian](Corellon%20Larethian.md)
-[Cyric](Cyric.md)
-[Gond](Gond.md)
-[Heaum](Heaum.md)
-[Ilmater](Ilmater.md)
-[Kelemvor](Kelemvor.md)
-[Lathandre](Lathandre.md)
-[Lolth](Lolth.md)
-[Loviatar](Loviatar.md)
-[Malar](Malar.md)
-[Mask](Mask.md)
-[Mystra](Mystra.md)
-[Oghma](Oghma.md)
+[Cyric](./Le%20Panthéon/Cyric.md)
+[Gond](./Le%20Panthéon/Gond.md)
+[Heaum](./Le%20Panthéon/Heaum.md)
+[Ilmater](./Le%20Panthéon/Ilmater.md)
+[Kelemvor](./Le%20Panthéon/Kelemvor.md)
+[Lathandre](./Le%20Panthéon/Lathandre.md)
+[Lolth](./Le%20Panthéon/Lolth.md)
+[Loviatar](./Le%20Panthéon/Loviatar.md)
+[Malar](./Le%20Panthéon/Malar.md)
+[Mask](./Le%20Panthéon/Mask.md)
+[Mystra](./Le%20Panthéon/Mystra.md)
+[Oghma](./Le%20Panthéon/Oghma.md)
 [Séluné](Séluné.md)
-[Shar](Shar.md)
-[Sunie](Sunie.md)
-[Sylvanus](Sylvanus.md)
-[Talona](Talona.md)
-[Talos](Talos.md)
-[Tempus](Tempus.md)
-[Torm](Torm.md)
-[Tymora](Tymora.md)
-[Tyr](Tyr.md)
-[Umberlie](Umberlie.md)
-[Uthgar](Uthgar.md)
-[Velsharoon](Velsharoon.md)
-[Waukyne](Waukyne.md)
+[Shar](./Le%20Panthéon/Shar.md)
+[Sunie](./Le%20Panthéon/Sunie.md)
+[Sylvanus](./Le%20Panthéon/Sylvanus.md)
+[Talona](./Le%20Panthéon/Talona.md)
+[Talos](./Le%20Panthéon/Talos.md)
+[Tempus](./Le%20Panthéon/Tempus.md)
+[Torm](./Le%20Panthéon/Torm.md)
+[Tymora](./Le%20Panthéon/Tymora.md)
+[Tyr](./Le%20Panthéon/Tyr.md)
+[Umberlie](./Le%20Panthéon/Umberlie.md)
+[Uthgar](./Le%20Panthéon/Uthgar.md)
+[Velsharoon](./Le%20Panthéon/Velsharoon.md)
+[Waukyne](./Le%20Panthéon/Waukyne.md)

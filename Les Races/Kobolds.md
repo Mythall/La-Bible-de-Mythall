@@ -15,8 +15,8 @@
 - Souvent malmené par les autres races
 - Sensibilité à la lumière : les kobolds détestent la lumière et subissent un effet de cécité permanent lorsqu'ils sont touchés par une attaque de lumière ou de feu très intense (3 dégâts et plus, avant résistance).
 
-**Classes autorisées :** [Guerrier](Guerrier.md), [Roublard](Roublard.md), [Chaman](Chaman.md), [Ensorceleur](Ensorceleur.md), [Druide](Druide.md), [Moine](Moine.md), [Prêtre](Prêtre.md), [Rôdeur](Rôdeur.md)
+**Classes autorisées :** [Guerrier](../Les%20Classes/Guerrier.md), [Roublard](../Les%20Classes/Roublard.md), [Chaman](../Les%20Classes/Chaman.md), [Ensorceleur](../Les%20Classes/Ensorceleur.md), [Druide](../Les%20Classes/Druide.md), [Moine](../Les%20Classes/Moine.md), [Prêtre](Prêtre.md), [Rôdeur](Rôdeur.md)
 
-**Classes défendues :** [Barde](Barde.md), [Barbare](Barbare.md), [Paladin](Paladin.md), [Magicien](Magicien.md)
+**Classes défendues :** [Barde](../Les%20Classes/Barde.md), [Barbare](../Les%20Classes/Barbare.md), [Paladin](../Les%20Classes/Paladin.md), [Magicien](../Les%20Classes/Magicien.md)
 
 **Description :** Les kobolds sont de petits humanoïdes aussi lâches que sadiques. Leur peau écailleuse ont un reflet jaunâtre. Ils portent des vêtements en haillons, en montrant une nette préférence pour le rouge et l'orange. Ils se nourrissent d'animaux et de végétaux, mais ne sont pas contre dévorer les créatures intelligentes. Ils passent le plus clair de leur temps à renforcer les environs de leur repaire à l'aide de pièges et de système d'alerte. Ils haïssent tous les autres humanoïdes et les fées, mais leurs ennemis jurés sont les gnomes et les esprits follets.

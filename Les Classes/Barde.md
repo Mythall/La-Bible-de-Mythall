@@ -8,7 +8,7 @@
 
 **Désavantages :** Le niveau de lanceur de sorts est moindre qu'un personnage lanceur de sorts de niveau équivalent. Obtient moins de fourberie qu'un roublard. N'a pas les mêmes capacités de soins qu'un prêtre ou un druide.
 
-**Mutliclassement :** peuvent se multiclasser en [Guerrier](Guerrier.md), [Ensorceleur](Ensorceleur.md), [Magicien](Magicien.md), [Prêtre](Pr%C3%AAtre.md) et [Roublard](Roublard.md). Ne peuvent pas se multiclasser en [Barbare](Barbare.md), [Chaman](Chaman.md), [Moine](Moine.md), [Paladin](Paladin.md), [Rôdeur](R%C3%B4deur.md) et [Druide](Druide.md).
+**Mutliclassement :** peuvent se multiclasser en [Guerrier](./Guerrier.md), [Ensorceleur](./Ensorceleur.md), [Magicien](./Magicien.md), [Prêtre](Pr%C3%AAtre.md) et [Roublard](./Roublard.md). Ne peuvent pas se multiclasser en [Barbare](./Barbare.md), [Chaman](./Chaman.md), [Moine](./Moine.md), [Paladin](./Paladin.md), [Rôdeur](R%C3%B4deur.md) et [Druide](./Druide.md).
 
 **Capacités Spéciales :** Chants Bardiques (1, 3, 5, 7, 9, 11, 13, 15), Fourberies (2, 6, 10, 14, 18), Discrétion I (8), Discrétion II (12), Medley (17), Imitation (19), Chant de Guerre (20).
 

@@ -35,7 +35,7 @@ Suite à de nombreuses questions et confusions, nous avons décidé de mettre un
 
 **Minerai de fer :** Bille couleur café. Sert principalement à réparer les armes et armures endommagées ou à en fabriquer à [La Forge](La%20Forge.md). Sert également à fabriquer une pioche en fer qui diminue le temps de minage à 20 minutes.
 
-**Pépite d'argent :** Bille argentée. Lorsqu'il s'agit de lancer le [Sorts](Sorts.md) [Délivrance des Malédictions](Délivrance%20des%20Malédictions.md), ajoute 5 NLS par 2 pépites d'argent jusqu'à un maximum de 10 NLS. Sert également à fabriquer des armes pour couper un fil d'argent (voir composantes magiques) ou une serpe en argent pour réduire le temps de cueillette à 20 minutes
+**Pépite d'argent :** Bille argentée. Lorsqu'il s'agit de lancer le [Sorts](./Sorts.md) [Délivrance des Malédictions](Délivrance%20des%20Malédictions.md), ajoute 5 NLS par 2 pépites d'argent jusqu'à un maximum de 10 NLS. Sert également à fabriquer des armes pour couper un fil d'argent (voir composantes magiques) ou une serpe en argent pour réduire le temps de cueillette à 20 minutes
 
 **Pépite d'or :** Bille dorée. 1 pépite d'or pour une (1) pièce d'argent (vous pouvez toujours marchander vos effort). Sert également à fabriquer des armes en or pour dépouiller les mages de leur mana ou ajouter un plaquage en or sur une serpe en argent afin de réduire le temps de cueillette à 10 minutes pour la durée d'un GN.
 

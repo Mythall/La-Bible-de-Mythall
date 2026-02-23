@@ -17,8 +17,8 @@
 - Ne peut se battre qu'avec des armes tranchantes ou perforantes
 - Ajustement de niveau : +2
 
-**Classes autorisées :** [Guerrier](Guerrier.md), [Druide](Druide.md), [Roublard](Roublard.md), [Barbare](Barbare.md), [Chaman](Chaman.md), [Ensorceleur](Ensorceleur.md), [Rôdeur](Rôdeur.md), [Magicien](Magicien.md), [Barde](Barde.md)
+**Classes autorisées :** [Guerrier](../Les%20Classes/Guerrier.md), [Druide](../Les%20Classes/Druide.md), [Roublard](../Les%20Classes/Roublard.md), [Barbare](../Les%20Classes/Barbare.md), [Chaman](../Les%20Classes/Chaman.md), [Ensorceleur](../Les%20Classes/Ensorceleur.md), [Rôdeur](Rôdeur.md), [Magicien](../Les%20Classes/Magicien.md), [Barde](../Les%20Classes/Barde.md)
 
-**Classes défendues :** [Paladin](Paladin.md), [Moine](Moine.md), [Prêtre](Prêtre.md)
+**Classes défendues :** [Paladin](../Les%20Classes/Paladin.md), [Moine](../Les%20Classes/Moine.md), [Prêtre](Prêtre.md)
 
 **Description :** Les Yuan-ti sont des créatures maléfiques mi-homme mi-serpent. On leur prête souvent des pouvoirs magiques et certains des attributs des serpents. Ils vivent en respectant un système hiérarchique qui est inné pour leur mémoire reptilienne : les castes. Les joueurs Yuan-ti font partie de la caste des Sang-pur, c'est-à-dire qu'ils ont une apparence totalement humaine avec quelques subtils traits reptiliens, comme une langue fourchue, des yeux en amande ou encore quelques écailles sur les bras, le revers des mains, le cou, les tempes, le front, les pommettes, etc. Ils vénèrent d'ailleurs souvent la déesse Talona, la mère de tous les poisons.

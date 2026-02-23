@@ -34,9 +34,9 @@ Certaines races ont des avantages et désavantages et la plupart ont une restric
 
 ## 2. Les Classes
 
-Les restrictions des possibilités de [Les Classes](Les%20Classes.md) pour chaque [Les Races](Les%20Races.md) sont définies par rapport à l'[Alignement](Alignement.md) autorisé (par exemple, un Thiefelin qui ne peut être "Bon" d'alignement ne pourra pas devenir un Paladin).
+Les restrictions des possibilités de [Les Classes](Les%20Classes.md) pour chaque [Les Races](Les%20Races.md) sont définies par rapport à l'[Alignement](./Alignement.md) autorisé (par exemple, un Thiefelin qui ne peut être "Bon" d'alignement ne pourra pas devenir un Paladin).
 
-Les autres restrictions sont dues aux [Statistiques](Statistiques.md) associées à chacune des [Les Races](Les%20Races.md). Une statistique négative en force ou en constitution empêche de choisir la [Barbare](Barbare.md), tandis qu'une statistique négative en dextérité empêche de choisir les classes de rôdeur, roublard, moine. Une statistique négative en intelligence empêche de choisir les classes de barde et magicien. Finalement, une statistique négative en sagesse empêche de choisir moine, druide, prêtre, paladin, rôdeur et ensorceleur.
+Les autres restrictions sont dues aux [Statistiques](./Statistiques.md) associées à chacune des [Les Races](Les%20Races.md). Une statistique négative en force ou en constitution empêche de choisir la [Barbare](./Les%20Classes/Barbare.md), tandis qu'une statistique négative en dextérité empêche de choisir les classes de rôdeur, roublard, moine. Une statistique négative en intelligence empêche de choisir les classes de barde et magicien. Finalement, une statistique négative en sagesse empêche de choisir moine, druide, prêtre, paladin, rôdeur et ensorceleur.
 
 Il y a 5 classes axées sur le combat à Mythall :
 
@@ -67,7 +67,7 @@ L'alignement est un guide pour la pensée votre personnage. C'est un élément s
 
 ## 4. Choisir un Don
 
-Un personnage reçoit un don gratuitement à son premier niveau. Il peut le choisir parmi la [Dons](Dons.md) en tenant compte des restrictions (de [Les Races](Les%20Races.md), de [Les Classes](Les%20Classes.md), de niveau, etc.). Chaque personnage reçoit un don supplémentaire à tous les niveaux qui sont multiple de trois (niveau 3, 6, 9, 12, 15, etc.).
+Un personnage reçoit un don gratuitement à son premier niveau. Il peut le choisir parmi la [Dons](./Dons.md) en tenant compte des restrictions (de [Les Races](Les%20Races.md), de [Les Classes](Les%20Classes.md), de niveau, etc.). Chaque personnage reçoit un don supplémentaire à tous les niveaux qui sont multiple de trois (niveau 3, 6, 9, 12, 15, etc.).
 
 ## 5. Choisir une divinité patronne (facultatif, sauf pour les [Prêtre](Prêtre.md))
 
@@ -75,9 +75,9 @@ Nous vous suggérons fortement d'avoir une divinité en particulier à laquelle 
 
 Les [Prêtre](Prêtre.md), quant à eux, doivent impérativement choisir une divinité patronne. Dans tous les cas, **il est obligatoire de choisir un dieu parmi ceux proposés dans [Le Panthéon](Le%20Panth%C3%A9on.md)**.
 
-Les [Druide](Druide.md) n'ont pas d'obligations particulières pour la divinité patronne, excepté qu'elle doit avoir un lien avec la nature. Le plus commun est Sylvanus, le dieu de la nature et des druides. Les autres divinités de la nature du panthéon sont Aurile, Malar, Umberlie et Talos (tous mauvais d'alignement).
+Les [Druide](./Les%20Classes/Druide.md) n'ont pas d'obligations particulières pour la divinité patronne, excepté qu'elle doit avoir un lien avec la nature. Le plus commun est Sylvanus, le dieu de la nature et des druides. Les autres divinités de la nature du panthéon sont Aurile, Malar, Umberlie et Talos (tous mauvais d'alignement).
 
-Les [Chaman](Chaman.md) doivent choisir [Uthgar](Uthgar.md) comme divinité patronne.
+Les [Chaman](./Les%20Classes/Chaman.md) doivent choisir [Uthgar](./Le%20Panthéon/Uthgar.md) comme divinité patronne.
 
 L'alignement d'un personnage ne devrait pas être plus éloigné d'un cran sur l'axe Bien-Mal et l'axe Chaos-Loi par rapport à l'alignement de sa divinité patronne. Par exemple, un personnage d'alignement Chaotique Neutre ne pourrait pas vénérer un dieu comme Baine (Loyal Mauvais) qui prône l'obéissance avant tout et la tyrannie.
 
@@ -86,14 +86,14 @@ L'alignement d'un personnage ne devrait pas être plus éloigné d'un cran sur l
 ### Magicien – Spécialisation
 
 - Les magiciens doivent se choisir une école de magie dans laquelle ils vont se spécialiser.
-- Un [Magicien](Magicien.md) a un bonus de 2 Niveaux de Lanceur de Sort (NLS) pour les [Sorts](Sorts.md) de leur école et obtient gratuitement le [Dons](Dons.md) *Connaissance des Sorts* pour l'école choisie.
+- Un [Magicien](./Les%20Classes/Magicien.md) a un bonus de 2 Niveaux de Lanceur de Sort (NLS) pour les [Sorts](./Sorts.md) de leur école et obtient gratuitement le [Dons](./Dons.md) *Connaissance des Sorts* pour l'école choisie.
 - Deux écoles de magie deviennent cependant interdites. Les écoles interdites sont liées avec l'école de prédilection et ne sont pas interchangeables.
 - Il est également possible d'être Généraliste, *i.e.* de ne pas avoir d'école de magie dans laquelle le personnage se spécialise. Dans ce cas, le personnage n'aura pas de restrictions, ni d'avantages reliés aux écoles de magie.
 
 ### Lanceurs de sorts – Choix des sorts
 
 - Les magiciens du premier niveau doivent choisir deux sorts parmi la liste des sorts de niveau 1. Si le magicien est spécialisé dans une école, il ne peut pas choisir de sorts qui proviennent de ses écoles interdites.
-- Les [Ensorceleur](Ensorceleur.md), les [Prêtre](Prêtre.md) et les [Druide](Druide.md) doivent quant à eux choisir 3 [Sorts](Sorts.md) parmi la liste de leurs [Sorts](Sorts.md) du 1er niveau.
+- Les [Ensorceleur](./Les%20Classes/Ensorceleur.md), les [Prêtre](Prêtre.md) et les [Druide](./Les%20Classes/Druide.md) doivent quant à eux choisir 3 [Sorts](./Sorts.md) parmi la liste de leurs [Sorts](./Sorts.md) du 1er niveau.
 
 ### Roublard – Fourberie
 

@@ -22,7 +22,7 @@ Voici alors une liste des sections que nous avons jugées importantes à savoir 
 - [La Vie et la Mort d'un Personnage](La%20Vie%20et%20la%20Mort%20d'un%20Personnage.md)
 - [La Taverne](La%20Taverne.md)
 - [Zones d'Extraction](Zones%20d'Extraction.md)
-- [Ombre-Terre](Ombre-Terre.md)
+- [Ombre-Terre](./Ombre-Terre.md)
 - [**Liste des effets néfastes**](Liste%20des%20effets%20n%C3%A9fastes.md)
 - [**Les Crânes**](Les%20Cr%C3%A2nes.md)
 - [**La Lutte**](La%20Lutte.md)

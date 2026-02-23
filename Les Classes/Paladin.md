@@ -30,11 +30,11 @@ Les paladins d'Ilmater vénèrent le dieu de la souffrance. Ils protègent les f
 
 ### Paladin de Heaum
 
-Les paladins de Heaum suivent les enseignements du dieu des gardiens. Ils se consacrent à la défense des plus faibles et protègent les régions fortement assaillies par des légions d'ennemis. Les paladins de cet ordre peuvent se multiclasser sans pénalité en [Guerrier](Guerrier.md).
+Les paladins de Heaum suivent les enseignements du dieu des gardiens. Ils se consacrent à la défense des plus faibles et protègent les régions fortement assaillies par des légions d'ennemis. Les paladins de cet ordre peuvent se multiclasser sans pénalité en [Guerrier](./Guerrier.md).
 
 ### Paladin de Mystra
 
-Les paladins de Mystra s'assurent que les pouvoirs de la Déesse des Mystères ne sont pas utilisés à des fins maléfiques. Ils traquent les lanceurs de sorts malveillants dans tout Mythall. Leur but est de protéger la civilisation et les mages inoffensifs des conséquences d'une mauvaise utilisation de la magie. Les paladins de cet ordre peuvent se multiclasser sans pénalité en [Magicien](Magicien.md).
+Les paladins de Mystra s'assurent que les pouvoirs de la Déesse des Mystères ne sont pas utilisés à des fins maléfiques. Ils traquent les lanceurs de sorts malveillants dans tout Mythall. Leur but est de protéger la civilisation et les mages inoffensifs des conséquences d'une mauvaise utilisation de la magie. Les paladins de cet ordre peuvent se multiclasser sans pénalité en [Magicien](./Magicien.md).
 
 ### Paladin de Kelemvor
 
@@ -46,7 +46,7 @@ Les paladins de la Coiffe de Feu sont les défenseurs de la beauté. Ils traquen
 
 ### Paladin de Tyr
 
-Les paladins du Dieu Juste constituent le premier rang des guerriers luttant contre le mal et le mensonge. Souvent, ils sont à la tête d'armées et de groupes d'aventuriers servant leur cause. Ils peuvent se multiclasser librement en [Guerrier](Guerrier.md).
+Les paladins du Dieu Juste constituent le premier rang des guerriers luttant contre le mal et le mensonge. Souvent, ils sont à la tête d'armées et de groupes d'aventuriers servant leur cause. Ils peuvent se multiclasser librement en [Guerrier](./Guerrier.md).
 
 <aside>
 ⚠️

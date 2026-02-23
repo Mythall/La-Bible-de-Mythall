@@ -8,7 +8,7 @@
 
 **Désavantages :** -1 à la statistique de force, -1 à la statistique de constitution.
 
-**Mutliclassement :** peuvent se multiclasser en [Barbare](Barbare.md), [Guerrier](Guerrier.md), [Rôdeur](R%C3%B4deur.md), [Druide](Druide.md) et [Roublard](Roublard.md). Ne peuvent pas se multiclasser en [Moine](Moine.md), [Barde](Barde.md), [Paladin](Paladin.md), [Ensorceleur](Ensorceleur.md), [Magicien](Magicien.md) et [Prêtre](Pr%C3%AAtre.md).
+**Mutliclassement :** peuvent se multiclasser en [Barbare](./Barbare.md), [Guerrier](./Guerrier.md), [Rôdeur](R%C3%B4deur.md), [Druide](./Druide.md) et [Roublard](./Roublard.md). Ne peuvent pas se multiclasser en [Moine](./Moine.md), [Barde](./Barde.md), [Paladin](./Paladin.md), [Ensorceleur](./Ensorceleur.md), [Magicien](./Magicien.md) et [Prêtre](Pr%C3%AAtre.md).
 
 **Capacités Spéciales :** Esprit Patron (1), Kriss de Sacrifice (2), Masque du Spiritisme (4), Rythmes Sauvages : Marche Barbare (6), Rythmes Sauvages : Cadence de Concentration (8) Création de Totem (10).
 

@@ -28,7 +28,7 @@ Le Ki accroît avec les niveaux du moine. La quantité de points de Ki débute �
 
 ### Moine de l'Ordre Ancien (Alignement Neutre, parfois Bon, rarement Mauvais)
 
-Les membres de l'Ordre Ancien ne vénèrent aucune divinité spécifique, mais sont férus de débats philosophiques et d'introspection. Les moines de cet ordre peuvent se multiclasser sans pénalité en [Roublard](Roublard.md). Toutefois, ils doivent posséder plus de niveaux de moine que de niveaux Roublard.
+Les membres de l'Ordre Ancien ne vénèrent aucune divinité spécifique, mais sont férus de débats philosophiques et d'introspection. Les moines de cet ordre peuvent se multiclasser sans pénalité en [Roublard](./Roublard.md). Toutefois, ils doivent posséder plus de niveaux de moine que de niveaux Roublard.
 
 ### Moine de l'Ordre des Estropiés (Alignement Bon)
 
@@ -44,15 +44,15 @@ Les membres de l'Ordre de la Conscience Solaire vénèrent souvent Sunie, Lathan
 
 ### Moine de la Main Étincelante (Alignement Neutre)
 
-Les membres de cet ordre combinent leur foi en Azouth et la pratique de la magie à leur dévotion monastique. Les moines de la Main Étincelante peuvent se multiclasser sans pénalité en [Magicien](Magicien.md), tant que leur niveau de moine soit supérieur ou égal à leur niveau de magicien (cette éventuelle égalité est une exception à la règle qui dit qu'un moine multiclassé doit avoir un nombre de niveau de moine strictement supérieur aux autres classes).
+Les membres de cet ordre combinent leur foi en Azouth et la pratique de la magie à leur dévotion monastique. Les moines de la Main Étincelante peuvent se multiclasser sans pénalité en [Magicien](./Magicien.md), tant que leur niveau de moine soit supérieur ou égal à leur niveau de magicien (cette éventuelle égalité est une exception à la règle qui dit qu'un moine multiclassé doit avoir un nombre de niveau de moine strictement supérieur aux autres classes).
 
 ### Moine de la Mort Longue (Alignement Mauvais)
 
-L'ordre de la Mort Longue voue un culte au concept de la mort sans véritablement se soucier de la divinité qui la donne. Ces moines sont plus que désireux de partager la mort et ses préliminaires, à savoir la douleur, avec autrui. Les moines de l'ordre de la Mort Longue peuvent se multiclasser sans pénalité en [Guerrier](Guerrier.md).
+L'ordre de la Mort Longue voue un culte au concept de la mort sans véritablement se soucier de la divinité qui la donne. Ces moines sont plus que désireux de partager la mort et ses préliminaires, à savoir la douleur, avec autrui. Les moines de l'ordre de la Mort Longue peuvent se multiclasser sans pénalité en [Guerrier](./Guerrier.md).
 
 ### Moine de l'Ordre du Poing de Hin (Alignement Neutre)
 
-Les membres de cet ordre monastique croient au pouvoir de l'individu capable de se maîtriser et de maîtriser le monde. Les moines de l'Ordre du Poing de Hin peuvent se multiclasser sans pénalité en [Druide](Druide.md).
+Les membres de cet ordre monastique croient au pouvoir de l'individu capable de se maîtriser et de maîtriser le monde. Les moines de l'Ordre du Poing de Hin peuvent se multiclasser sans pénalité en [Druide](./Druide.md).
 
 <aside>
 ⚠️

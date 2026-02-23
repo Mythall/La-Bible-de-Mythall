@@ -8,7 +8,7 @@
 
 **Désavantages :** La rage entraîne une grande fatigue. Pas de port d'armure lourde.
 
-**Mutliclassement :** peuvent se multiclasser en [Guerrier](Guerrier.md), [Chaman](Chaman.md), [Druide](Druide.md), [Prêtre](Pr%C3%AAtre.md) et [Rôdeur](R%C3%B4deur.md). Ne peuvent pas se multiclasser en [Barde](Barde.md), [Ensorceleur](Ensorceleur.md), [Magicien](Magicien.md), [Paladin](Paladin.md) et [Roublard](Roublard.md).
+**Mutliclassement :** peuvent se multiclasser en [Guerrier](./Guerrier.md), [Chaman](./Chaman.md), [Druide](./Druide.md), [Prêtre](Pr%C3%AAtre.md) et [Rôdeur](R%C3%B4deur.md). Ne peuvent pas se multiclasser en [Barde](./Barde.md), [Ensorceleur](./Ensorceleur.md), [Magicien](./Magicien.md), [Paladin](./Paladin.md) et [Roublard](./Roublard.md).
 
 **Capacités Spéciales :** Rage de Berserker (1, 4, 8, 12, 16, 20), Esquive Instinctive (5), Endurance Accrue (1, 5, 10, 15 et 20), Grande Rage de Berserker (11), Résistance aux Dégâts Perforants (7), Résistance aux Dégâts Tranchants (10), Résistance aux Dégâts Contondants (13), Volonté Indomptable (14), Résistance aux Dégâts Physiques : 2 (16). Rage Sans Fatigue (17), Résistance aux Éléments (19) et Rage de Maître Berserker (20).
 

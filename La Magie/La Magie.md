@@ -2,7 +2,7 @@
 
 # La Magie
 
-À Mythall, la Magie est très présente. Certains personnages et certaines [Les Classes](Les%20Classes.md) ne l'apprécient pas particulièrement, mais de façon générale, tout le monde y touche un peu, que ce soit de façon directe ou indirecte. La section qui suit s'adresse surtout aux joueurs qui veulent s'aventurer dans le domaine de la magie et devenir un lanceur de sorts. Toutes les précisions relatives à la magie s'y trouvent. Par contre, le nombre de [Sorts](Sorts.md) étant relativement élevé et leurs effets très variés, nous avons créé une section de la Bible qui contient la [Sorts](Sorts.md).
+À Mythall, la Magie est très présente. Certains personnages et certaines [Les Classes](Les%20Classes.md) ne l'apprécient pas particulièrement, mais de façon générale, tout le monde y touche un peu, que ce soit de façon directe ou indirecte. La section qui suit s'adresse surtout aux joueurs qui veulent s'aventurer dans le domaine de la magie et devenir un lanceur de sorts. Toutes les précisions relatives à la magie s'y trouvent. Par contre, le nombre de [Sorts](../Sorts.md) étant relativement élevé et leurs effets très variés, nous avons créé une section de la Bible qui contient la [Sorts](../Sorts.md).
 
 ---
 
@@ -68,24 +68,24 @@ Branche de la magie qui comporte les sorts pouvant transformer la réalité phys
 
 ## Symboles des Écoles de Magie
 
-Tout lanceur de sorts profane ([Magicien](Magicien.md) et [Barde](Barde.md)) devront lancer leur sort en utilisant une composante gestuelle, un signe qu'il faut tracer dans les airs en même temps que de prononcer l'incantation.
+Tout lanceur de sorts profane ([Magicien](../Les%20Classes/Magicien.md) et [Barde](../Les%20Classes/Barde.md)) devront lancer leur sort en utilisant une composante gestuelle, un signe qu'il faut tracer dans les airs en même temps que de prononcer l'incantation.
 
 > **Important :** La gestuelle doit être grande et précise, elle doit, au minimum, être aussi large que le corps du lanceur.
 > 
 
-Chaque école de magie doit être représentée par un symbole qui lui est propre. Par exemple, un [Magicien](Magicien.md) désirant lancer le [Sorts](Sorts.md) *[Armure de Mage](Armure%20de%20Mage.md)*, un sort provenant de l'école de l'abjuration, devra prononcer l'incantation de ce sort tout en traçant dans les airs le symbole associé à l'école de l'abjuration.
+Chaque école de magie doit être représentée par un symbole qui lui est propre. Par exemple, un [Magicien](../Les%20Classes/Magicien.md) désirant lancer le [Sorts](../Sorts.md) *[Armure de Mage](Armure%20de%20Mage.md)*, un sort provenant de l'école de l'abjuration, devra prononcer l'incantation de ce sort tout en traçant dans les airs le symbole associé à l'école de l'abjuration.
 
 Voici les différents symboles reliés aux écoles de magie et leurs descriptions. Une courte pause doit être observée entre chaque étape lors du traçage du symbole.
 
-[Abjuration](Abjuration.md)
-[Conjuration](Conjuration.md)
-[Divination](Divination.md)
-[Enchantement](Enchantement.md)
+[Abjuration](./Abjuration.md)
+[Conjuration](./Conjuration.md)
+[Divination](./Divination.md)
+[Enchantement](./Enchantement.md)
 [Évocation](Évocation.md)
-[Illusion](Illusion.md)
-[Invocation](Invocation.md)
+[Illusion](./Illusion.md)
+[Invocation](./Invocation.md)
 [Nécromancie](Nécromancie.md)
-[Transmutation](Transmutation.md)
+[Transmutation](./Transmutation.md)
 
 ---
 
@@ -140,7 +140,7 @@ Les incantations profanes doivent être lancées avec l'incantation en langage d
 
 ## Écoles de Magie Interdites (Magiciens seulement)
 
-Un magicien qui se spécialise dans une école de magie (voir classe de magicien) va automatiquement obtenir des écoles interdites qui seront déterminées par son école de spécialisation. Un [Magicien](Magicien.md) ne peut pas recopier de parchemin, ni utiliser de [Sorts](Sorts.md) qui font partie de ses écoles interdites. Il peut cependant bénéficier des effets si quelqu'un d'autre lui lance un sort de cette école.
+Un magicien qui se spécialise dans une école de magie (voir classe de magicien) va automatiquement obtenir des écoles interdites qui seront déterminées par son école de spécialisation. Un [Magicien](../Les%20Classes/Magicien.md) ne peut pas recopier de parchemin, ni utiliser de [Sorts](../Sorts.md) qui font partie de ses écoles interdites. Il peut cependant bénéficier des effets si quelqu'un d'autre lui lance un sort de cette école.
 
 Ces écoles interdites ne sont pas choisies en fonction d'une relation inverse/contraire entre les écoles. Il faut voir ces restrictions comme le fait que votre personnage n'a pas le temps de se consacrer à toutes les branches de la magie et qu'il doit en sacrifier quelques-unes. Le choix est déterminé à l'avance pour une question de balance.
 

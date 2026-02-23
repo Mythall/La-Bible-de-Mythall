@@ -16,5 +16,5 @@ Les tours et les fourberies sont des talents particuliers accessibles aux roubla
 [Poudre aux yeux](Poudre%20aux%20yeux.md)
 [Secrets d'escroc I](Secrets%20d'escroc%20I.md)
 [Secrets d'escroc II](Secrets%20d'escroc%20II.md)
-[Toxines](Toxines.md)
+[Toxines](./Fourberies/Toxines.md)
 [Vol à la Tire](Vol%20à%20la%20Tire.md)

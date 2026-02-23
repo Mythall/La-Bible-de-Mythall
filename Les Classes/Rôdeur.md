@@ -8,7 +8,7 @@
 
 **Désavantages :** aucun
 
-**Mutliclassement :** peuvent se multiclasser en [Barbare](Barbare.md), [Chaman](Chaman.md), [Druide](Druide.md), [Guerrier](Guerrier.md), [Magicien](Magicien.md), [Ensorceleur](Ensorceleur.md), [Prêtre](Pr%C3%AAtre.md) et [Roublard](Roublard.md). Ne peuvent pas se multiclasser en [Barde](Barde.md), [Moine](Moine.md) et [Paladin](Paladin.md).
+**Mutliclassement :** peuvent se multiclasser en [Barbare](./Barbare.md), [Chaman](./Chaman.md), [Druide](./Druide.md), [Guerrier](./Guerrier.md), [Magicien](./Magicien.md), [Ensorceleur](./Ensorceleur.md), [Prêtre](Pr%C3%AAtre.md) et [Roublard](./Roublard.md). Ne peuvent pas se multiclasser en [Barde](./Barde.md), [Moine](./Moine.md) et [Paladin](./Paladin.md).
 
 **Capacité Spéciale :** Ennemis Jurés (1, 5, 10, 15, 20), Discrétion I (1), Alarme I (2), Style de Combat (2), Confection de Pièges I (3), Alarme II (4), Discrétion II (6), Science du Style de Combat (6), Alarme III (8), Discrétion III (12), Alarme IV (13), Maîtrise du Style de Combat (14), Glyphe Naturelle (15), Connaissances de la Nature (15), Esquive Totale (17), Maîtrise de la Nature (19), Éternelle Jeunesse (20) et Esprit Vengeur (20).
 
@@ -123,7 +123,7 @@ Le piège prend 2 minutes à poser et ne peut plus se réactiver une fois décle
 
 **Maîtrise du Style de combat :** le Rôdeur, s'il ne porte pas d'armure lourde, acquiert la maîtrise totale de son style de combat.
 
-- S'il a choisi le style de combat à deux armes, il acquiert le don [Renversement](Renversement.md). De plus, il est possible d'utiliser ce don en touchant simultanément les deux jambes de l'adversaire et n'a pas de restriction quant au nombre de fois qu'il peut utiliser le don dans un même combat.
+- S'il a choisi le style de combat à deux armes, il acquiert le don [Renversement](../Dons/Renversement.md). De plus, il est possible d'utiliser ce don en touchant simultanément les deux jambes de l'adversaire et n'a pas de restriction quant au nombre de fois qu'il peut utiliser le don dans un même combat.
 - S'il a choisi le style de combat à distance, il acquiert la possibilité de causer un effet de brise bouclier 3x par événement.
 
 ### Niveau 15

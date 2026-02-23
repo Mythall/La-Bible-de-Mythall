@@ -8,7 +8,7 @@
 
 **Désavantages :** Moins de sorts défensifs que les prêtres (sauf les protections élémentaires).
 
-**Mutliclassement :** peuvent se multiclasser en [Guerrier](Guerrier.md), [Ensorceleur](Ensorceleur.md), [Magicien](Magicien.md), [Moine](Moine.md), [Rôdeur](R%C3%B4deur.md), [Roublard](Roublard.md), [Barbare](Barbare.md) et [Chaman](Chaman.md). Ne peuvent pas se multiclasser en [Barde](Barde.md), [Paladin](Paladin.md) et [Prêtre](Pr%C3%AAtre.md).
+**Mutliclassement :** peuvent se multiclasser en [Guerrier](./Guerrier.md), [Ensorceleur](./Ensorceleur.md), [Magicien](./Magicien.md), [Moine](./Moine.md), [Rôdeur](R%C3%B4deur.md), [Roublard](./Roublard.md), [Barbare](./Barbare.md) et [Chaman](./Chaman.md). Ne peuvent pas se multiclasser en [Barde](./Barde.md), [Paladin](./Paladin.md) et [Prêtre](Pr%C3%AAtre.md).
 
 **Capacités Spéciales :** Forme Animale Mineure (6), Antidote Sanguin (8), Forme Animale Modérée (10), Éternelle Jeunesse (12), Forme Animale Majeure (14), Forme Élémentaire : Élémentaire de Feu (16), Forme Élémentaire : Élémentaire du Froid (18), Forme Élémentaire : Élémentaire de l'Air (20) et Faveur des Dieux (20).
 
@@ -50,8 +50,8 @@ Obtient 2 choix de sorts parmi la liste des sorts auxquels le druide a accès. I
 
 **Forme animale mineure :** en se costumant pendant qu'il est caché et isolé dans la nature, le druide se transforme en Être-animal. Ses points de vie se généralisent et obtiennent un bonus de 10, il cause 1 point de dégâts avec ses griffes, ne peut plus parler - et donc lancer de sorts. La transformation dure le temps du changement de costume.
 
-- Il obtient Discrétion I s'il est un félin (voir classe de [Roublard](Roublard.md)).
-- Il obtient Aura de Bravoure s'il est un loup (voir classe de [Paladin](Paladin.md))
+- Il obtient Discrétion I s'il est un félin (voir classe de [Roublard](./Roublard.md)).
+- Il obtient Aura de Bravoure s'il est un loup (voir classe de [Paladin](./Paladin.md))
 - Il obtient une réduction des dégâts physiques de 1 s'il est un ours.
 
 ### Niveau 7
@@ -78,8 +78,8 @@ Obtient 1 choix de sort parmi la liste des sorts auxquels le druide a accès. Il
 
 **Forme animale modérée :** en se costumant pendant qu'il est caché et isolé dans la nature, le druide se transforme en Être-animal. Ses points de vie se généralisent et obtiennent un bonus de 15. Il cause 1 point de dégâts avec ses griffes, ne peut plus parler - et donc lancer de sorts. La transformation dure le temps du changement de costume.
 
-- Il obtient Discrétion II et Attaques Sournoises +2 s'il est un félin (voir classe de [Roublard](Roublard.md)).
-- Il obtient Aura de Bravoure et est immunisé aux effets d'ancrage s'il est un loup (voir classe de [Paladin](Paladin.md))
+- Il obtient Discrétion II et Attaques Sournoises +2 s'il est un félin (voir classe de [Roublard](./Roublard.md)).
+- Il obtient Aura de Bravoure et est immunisé aux effets d'ancrage s'il est un loup (voir classe de [Paladin](./Paladin.md))
 - Il obtient une réduction des dégâts physiques de 2 s'il est un ours.
 
 ### Niveau 11
@@ -107,7 +107,7 @@ Obtient 1 choix de sort parmi la liste des sorts auxquels le druide a accès. Il
 **Forme animale majeure :** en se costumant pendant qu'il est caché et isolé dans la nature, le druide se transforme en Être-animal. Ses points de vie se généralisent et obtiennent un bonus de 20. Il cause 2 points de dégâts avec ses griffes, ne peut plus parler - et donc lancer de sorts. La transformation dure le temps du changement de costume.
 
 - Il obtient Discrétion II, Attaques Sournoises +2 et devient invisible lorsqu'il est immobile pendant 10 secondes s'il est un félin.
-- Il obtient Aura de Bravoure (voir classe de [Paladin](Paladin.md)), est immunisé aux effets d'ancrage et obtient Odorat (Détection de l'Invisible en permanence sur un rayon de 5m) s'il est un loup.
+- Il obtient Aura de Bravoure (voir classe de [Paladin](./Paladin.md)), est immunisé aux effets d'ancrage et obtient Odorat (Détection de l'Invisible en permanence sur un rayon de 5m) s'il est un loup.
 - Il obtient une réduction des dégâts physiques de 2 et ses bras deviennent immunisés aux dégâts physiques et élémentaires s'il est un ours.
 
 ### Niveau 15

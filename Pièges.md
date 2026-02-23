@@ -1,6 +1,6 @@
 # Pièges
 
-Les pièges sont des dispositifs mécaniques ou magiques que les [Roublard](Roublard.md) et [Barde](Barde.md) peuvent confectionner, poser, détecter et désamorcer grâce à leurs [**Fourberies**](Fourberies.md).
+Les pièges sont des dispositifs mécaniques ou magiques que les [Roublard](./Les%20Classes/Roublard.md) et [Barde](./Les%20Classes/Barde.md) peuvent confectionner, poser, détecter et désamorcer grâce à leurs [**Fourberies**](./Fourberies.md).
 
 ## Confection de piège
 

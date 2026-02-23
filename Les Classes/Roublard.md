@@ -8,7 +8,7 @@
 
 **Désavantages :** Pas d'armure moyenne, ni lourde. Pas d'armes lourdes. Relativement faible en combat rapproché (face à face).
 
-**Mutliclassement :** peuvent se multiclasser en [Barde](Barde.md), [Chaman](Chaman.md), [Druide](Druide.md), [Guerrier](Guerrier.md), [Magicien](Magicien.md), [Ensorceleur](Ensorceleur.md), [Prêtre](Pr%C3%AAtre.md) et [Rôdeur](R%C3%B4deur.md). Ne peuvent pas se multiclasser en [Barbare](Barbare.md), [Moine](Moine.md) et [Paladin](Paladin.md).
+**Mutliclassement :** peuvent se multiclasser en [Barde](./Barde.md), [Chaman](./Chaman.md), [Druide](./Druide.md), [Guerrier](./Guerrier.md), [Magicien](./Magicien.md), [Ensorceleur](./Ensorceleur.md), [Prêtre](Pr%C3%AAtre.md) et [Rôdeur](R%C3%B4deur.md). Ne peuvent pas se multiclasser en [Barbare](./Barbare.md), [Moine](./Moine.md) et [Paladin](./Paladin.md).
 
 **Capacité Spéciale :** Attaques Sournoises (1, 4, 8, 12, 16, 20), Discrétion I (1), Fourberies (1, 3, 5, 7, 9, 11, 13, 15, 17, 19), Réflexes Surhumains (2), Discrétion II (3), Esquive Totale (4), Esquive Instinctive (5), Discrétion III (9), Égorgement (10, 15, 18), Contre-Attaque Sournoise (11), Discrétion IV (14) et Perce-Armure (20).
 

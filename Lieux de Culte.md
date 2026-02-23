@@ -51,8 +51,8 @@ Les rites initiatiques sont déjà déterminés pour chaque divinité, mais ne s
 
 ### Baine
 
-- **Amélioration** : [Discipline](Discipline.md)
-- **Effet permanent** : Parole du Tyran (change l'[Alignement](Alignement.md) à LM pour l'auditoire après un discours de 30 secondes)
+- **Amélioration** : [Discipline](./Dons/Discipline.md)
+- **Effet permanent** : Parole du Tyran (change l'[Alignement](./Alignement.md) à LM pour l'auditoire après un discours de 30 secondes)
 
 ### Beshaba
 

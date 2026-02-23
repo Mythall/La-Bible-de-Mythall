@@ -8,7 +8,7 @@
 
 **Désavantages :** -1 en constitution. -1 en force. Ne se bat que très rarement au corps à corps, ne peut pas avoir d'armes lourdes, d'armures, ni d'armes de jet.
 
-**Mutliclassement :** peuvent se multiclasser en [Barde](Barde.md), [Druide](Druide.md), [Guerrier](Guerrier.md), [Moine](Moine.md), [Paladin](Paladin.md), [Prêtre](Pr%C3%AAtre.md), [Rôdeur](R%C3%B4deur.md) et [Roublard](Roublard.md). Ne peuvent pas se multiclasser en [Barbare](Barbare.md), [Chaman](Chaman.md) et [Ensorceleur](Ensorceleur.md).
+**Mutliclassement :** peuvent se multiclasser en [Barde](./Barde.md), [Druide](./Druide.md), [Guerrier](./Guerrier.md), [Moine](./Moine.md), [Paladin](./Paladin.md), [Prêtre](Pr%C3%AAtre.md), [Rôdeur](R%C3%B4deur.md) et [Roublard](./Roublard.md). Ne peuvent pas se multiclasser en [Barbare](./Barbare.md), [Chaman](./Chaman.md) et [Ensorceleur](./Ensorceleur.md).
 
 **Capactiés Spéciales :** Absorption Magique (Conjurateur 1), Bastion (Abjurateur 1), Boule de Cristal (Devin 1), Hypnose (Enchanteur 3), Invocation (Invocateur 1), Maîtrise de la Mort (Nécromancien 5), Maîtrise des Éléments (Évocateur 1), Prestidigitation (Illusionniste 1), Télékynésie (Transmutateur 1), Dons Supplémentaires (Généraliste 5, 10, 15, 20), Chef de Grand Cercle (20).
 

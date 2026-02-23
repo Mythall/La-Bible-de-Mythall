@@ -18,7 +18,7 @@ Branche de la magie qui comporte tout ce qui est magie défensive et les sorts a
 
 Branche de la magie qui sert à annuler les enchantements et à repousser les démons et morts-vivants.
 
-**Sorts très connus :** *[[Sorts/Dissipation de la Magie|Dissipation de la Magie]], [[Sorts/Délivrance des Malédictions|Délivrance des Malédictions]], [[Sorts/Renvoi|Renvoi]]*
+**Sorts très connus :** *[Dissipation de la Magie](Sorts/Dissipation%20de%20la%20Magie.md), [Délivrance des Malédictions](Sorts/Délivrance%20des%20Malédictions.md), [Renvoi](Sorts/Renvoi.md)*
 
 ### 3. Divination
 

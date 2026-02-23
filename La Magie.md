@@ -1,6 +1,6 @@
 # La Magie
 
-À Mythall, la Magie est très présente. Certains personnages et certaines [[Les Classes]] ne l'apprécient pas particulièrement, mais de façon générale, tout le monde y touche un peu, que ce soit de façon directe ou indirecte. La section qui suit s'adresse surtout aux joueurs qui veulent s'aventurer dans le domaine de la magie et devenir un lanceur de sorts. Toutes les précisions relatives à la magie s'y trouvent. Par contre, le nombre de [Sorts](Sorts.md) étant relativement élevé et leurs effets très variés, nous avons créé une section de la Bible qui contient la [Sorts](Sorts%202b0eecdc60df801087f8efdb3a109ffd.md).
+À Mythall, la Magie est très présente. Certains personnages et certaines [Les Classes](Les%20Classes.md) ne l'apprécient pas particulièrement, mais de façon générale, tout le monde y touche un peu, que ce soit de façon directe ou indirecte. La section qui suit s'adresse surtout aux joueurs qui veulent s'aventurer dans le domaine de la magie et devenir un lanceur de sorts. Toutes les précisions relatives à la magie s'y trouvent. Par contre, le nombre de [Sorts](Sorts.md) étant relativement élevé et leurs effets très variés, nous avons créé une section de la Bible qui contient la [Sorts](Sorts.md).
 
 ---
 
@@ -66,7 +66,7 @@ Branche de la magie qui comporte les sorts pouvant transformer la réalité phys
 
 ## Symboles des Écoles de Magie
 
-Tout lanceur de sorts profane ([Magicien](Magicien%202b0eecdc60df809190fcce6e788847fc.md) et [Barde](Barde%202b0eecdc60df806c97f2f6a94c4b4b5f.md)) devront lancer leur sort en utilisant une composante gestuelle, un signe qu'il faut tracer dans les airs en même temps que de prononcer l'incantation.
+Tout lanceur de sorts profane ([Magicien](Magicien.md) et [Barde](Barde.md)) devront lancer leur sort en utilisant une composante gestuelle, un signe qu'il faut tracer dans les airs en même temps que de prononcer l'incantation.
 
 > **Important :** La gestuelle doit être grande et précise, elle doit, au minimum, être aussi large que le corps du lanceur.
 

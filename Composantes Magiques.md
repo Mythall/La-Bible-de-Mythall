@@ -1,0 +1,131 @@
+# Composantes Magiques
+
+Plusieurs composantes magiques seront à votre disposition au cours de votre carrière à Mythall. Il y en a 3 par [La Magie](La%20Magie.md) et certaines composantes sont beaucoup plus rares que d'autres. Même si ce n'est pas tout le monde qui peut les utiliser, ce sont des composantes qui peuvent être utiles pour plusieurs types de quêtes. Également, les personnages qui peuvent les utiliser pour la fabrication d'[Objets Merveilleux](Objets%20Merveilleux.md) vont possiblement vouloir faire du troc ou acheter de telles composantes.
+
+Voici la liste des composantes et la façon de les obtenir :
+
+## Composantes reliées à l'Abjuration
+
+**1. Larmes de Souffrance**
+
+Il y a deux façons distinctes d'obtenir cette composante. Comme son nom l'indique, il s'agit d'une larme. *On peut l'obtenir en récoltant une larme sur la joue de quelqu'un qui se fait torturer.* Autrement, on peut aussi demander à un Noble Martyr d'Ilmater (prêtre d'Ilmater) de verser une larme dans une fiole.
+
+**2. Sang d'Ange**
+
+Les anges sont réputés pour avoir une essence magique qui coule dans leurs veines particulièrement efficace en ce qui à trait à la magie défensive. Aussi tentant que cela puisse paraître, le sang des [Aasimars](Aasimars.md) est beaucoup trop dilué pour pouvoir être d'une quelconque utilité pour obtenir cette composante. Par contre, seules quelques gouttes sont nécessaires pour la fabrication d'objets. En avoir plus en sa possession reviendrait à se mettre à dos les puissances angéliques. *Cette composante est très rare car il faut qu'un animateur joue le rôle d'un ange lors de l'événement.* Aussi tentant que cela puisse paraître, le sang des Aasimars est beaucoup trop dilué pour pouvoir être d'une quelconque utilité pour obtenir cette composante.
+
+**3. Écailles de Yuan-ti**
+
+Les [Yuan-ti](Yuan-ti.md), cette puissante [Les Races](Les%20Races.md) humanoïde ayant des traits reptiliens a subit une évolution contrôlée par mutation magique. Ils ont également utilisé d'autres techniques pour contrôler leur évolution, mais il reste que leurs écailles ont toujours des propriétés protectrices lorsque utilisées convenablement. La peau morte d'un [Yuan-ti](Yuan-ti.md) qui vient d'utiliser Muance ne peut servir de composante car son potentiel magique a été utilisé pour guérir la créature avant de se détacher. De gré ou de force, il est possible de prendre les écailles sur une créature (joueur ou mob). L'équivalent d'écorcher quelqu'un bref. *La créature subit l'équivalent du [Sorts](Sorts.md) [Dépeçage](Dépeçage.md) : tout les pvs enlevés, sauf 1 au torse et 1 à chaque jambe.*
+
+## Composantes reliées à la Conjuration
+
+**1. Cérumen de Gobelin**
+
+Aussi absurde que cela puisse paraître, la cire d'oreille des [Gobelins](Gobelins.md) a une propriété disruptive si appliquée directement à la Toile. *Pour s'en procurer, enfoncer un doigt ou un coton-tige improvisé dans l'oreille d'un gobelin (joueur ou mob) et bien gratter le fond*. Notez bien que la réaction du gobelin peut varier entre se débattre, mordre, vous cracher au visage, voler votre cire d'oreille à la prochaine occasion ou bien tout simplement vous en donner plus que vous l'auriez voulu.
+
+**2. Mucus d'Orque**
+
+Le crachat d'[Orques](Orques.md) a longtemps été craint de tout lanceur de sorts car une rumeur voulait qu'elle puisse annuler tout les [Sorts](Sorts.md). L'expérimentation empirique du phénomène a prouvé qu'il n'en était rien. Mais comme toute rumeur a un fond de vérité, a été découvert une propriété anti-magique au mucus d'orque lorsqu'il entre en contact avec l'air. *Pour s'en procurer, vous pouvez extraire vous même la substance du pif d'une créature de cette race*. Si l'humeur vous en dit, vous pouvez également vous risquer à demander de déposer quelques crachats dans votre éprouvette ou autre contenant servant à le recueillir.
+
+**3. Ectoplasme**
+
+Cette composante est plus rare que les autres car un animateur doit jouer un fantôme et se faire vaincre. L'ectoplasme est une manifestation physique de l'énergie qui relie le plan éthéré et le plan matériel. *On peut en récupérer une dose lorsqu'un fantôme est tué. Les joueurs décédés qui jouent le fantôme de leur personnage peuvent également servir de source d'Ectoplasme.*
+
+## Composantes reliées à la Divination
+
+**1. Plume de Phénix**
+
+Cette composante est très rare. *On peut en acheter à certains marchands ambulants qui ne sont pas d'origine Mythallienne* ou bien en obtenir via **la géopolitique**, avec beaucoup de chance.
+
+**2. Fil d'Argent**
+
+Cette composante n'est pas rare, mais difficile à obtenir. Un fil d'argent est la corde qui relie l'âme d'une personne à son corps lorsqu'elle voyage dans le plan éthéré. *Seul une arme en argent peut couper un fil d'argent, causant ainsi la mort instantanée de la personne à laquelle appartient le fil.* Un fil d'argent n'a pas de longueur par définition. Il n'est donc pas possible d'en couper un pour obtenir une quantité supérieure de fil d'argent.
+
+**3. Oeil d'Humanoïde**
+
+Dans plusieurs cultures, il est coutume de manger l'oeil d'un adversaire pour connaître les forces et faiblesses de sa tribu. L'œil de n'importe quel humanoïde possède effectivement des propriétés divinatoires intéressantes. *Pour s'en procurer, vous pouvez prendre de gré ou de force l'oeil d'un autre personnage, mort ou vif.*
+
+## Composantes reliées à l'Enchantement
+
+**1. Écaille de Dragon**
+
+Aussi étrange que cela puisse paraître, cette composante n'est pas du tout rare. Si on cherche un peu, on peut en trouver une source abondante assez facilement. *Seule une lame magique (forgée en adamantium) permet d'enlever une écaille de dragon de la peau du grand lézard*. La dite écaille mesure en moyenne 1 mm². La totalité des écailles d'un demi-dragon peut également fonctionner pour en faire une composante. Pour en récupérer de cette façon, il suffit *d'enlever la peau* (équivalent du sort **Dépeçage**) *d'un personnage demi-dragon*, ce qui le laisse à 1 point de vie au torse et 1 point de vie à chaque jambes.
+
+**2. Tentacule d'Illithid**
+
+Cette composante est plutôt rare puisqu'il faut qu'un animateur interprète le rôle d'un Flagelleur mental. Il est également possible d'en invoquer en utilisant l'aptitude Invocation des invocateurs.
+
+**3. Écailles de Sirène**
+
+Cette composante peut être trouvée près d'un cours d'eau particulier à Mythall où une sirène a déjà fait son apparition. Les immondes créatures, qui ont causé des ravages autrefois, ont laissé tout plein d'écailles près de leur ancien repère. *Il suffit de ramasser une petite roche près de ce cours d'eau particulier.*
+
+## Composantes reliées à l'école d'Évocation
+
+**1. Essence de Flamme**
+
+Il y a deux façons de trouver cette composante. On peut soit la créer, soit *la trouver sur une créature lié à l'élément du feu après l'avoir tué* (comme un [Convocation d'Élémentaire de Feu](Convocation%20d'Élémentaire%20de%20Feu.md)). Sinon, pour en créer, *on doit broyer un rubis et ensuite causer une importante source de dégât de feu* à la poudre ainsi créée (au moins 3 dégâts).
+
+**2. Essence de Froid**
+
+Il y a deux façons de trouver cette composante. On peut soit la créer, soit *la trouver sur une créature lié à l'élément du froid après l'avoir tué* (comme un [Convocation d'Élémentaire de Froid](Convocation%20d'Élémentaire%20de%20Froid.md)). Sinon, pour en créer, *on doit broyer un saphir et ensuite causer une importante source de dégât de froid* à la poudre ainsi créée (au moins 3 dégâts).
+
+**3. Essence de Foudre**
+
+Il y a deux façons de trouver cette composante. On peut soit la créer, soit *la trouver sur une créature lié à l'élément de la foudre ou de l'air après l'avoir tué* (comme un [Convocation d'Élémentaire de l'Air](Convocation%20d'Élémentaire%20de%20l'Air.md)). Sinon, pour en créer, *on doit broyer une topaze et ensuite causer une importante source de dégât de foudre* à la poudre ainsi créée (au moins 3 dégâts).
+
+## Composantes reliées à l'école de l'Illusion
+
+**1. Souffle de Génie**
+
+Cette composante peut être difficile à se procurer. En effet, les génies sont plutôt rares, mais au moins, la composante peut être récupérée sur n'importe quel type de génie (éfrit, djinn ou jann). Les génies convoqués à l'aide du [Sorts](Sorts.md) [Convocation de Génie](Convocation%20de%20Génie.md) peuvent être utilisés pour recueillir la composante. *On doit mettre le dernier souffle (celui qui précède la mort) du génie dans une fiole ou autre contenant*. Les génies convoqués à l'aide du sort Convocation de Génie peuvent être utilisés pour recueillir la composante. Sinon, il faut qu'un animateur joue le rôle d'un génie.
+
+**2. Poussière Lumineuse**
+
+Cette composante est assez commune et facile à trouver. *Il suffit de récupérer de la terre ayant passé environ 4h sur un feu follet (lampes solaires éclairant les sentiers la nuit).* *Il est également possible de recueillir les restants d'un feu follet joué par l'animation.*
+
+**3. Poussière d'Ombre**
+
+Cette composante est facile à récolter, mais plutôt rare en même temps. *Lorsqu'une ombre est touchée par une arme, elle dépose un résidu sombre sur l'arme et ce résidu, de la poussière d'ombre, peut être récupéré par après*. Peu importe le nombre de coups, l'arme ne peut accumuler plus d'une dose de cette composante.
+
+## Composantes reliées à l'école de l'Invocation
+
+**1. Ventricule de Zombie**
+
+Cette composante est assez commune, puisque les morts-vivants sont les invocations les plus répandues sur les terres de Mythall. Le mort-vivant n'a pas besoin d'être fonctionnel pour que le ventricule lui soit retiré. *Dû à l'état de décomposition de la créature, il n'est possible de récupérer qu'un seul ventricule par cœur de zombie, l'autre étant invariablement détruit lors de l'opération*. Le zombie peut très bien continuer à fonctionner sans cet organe.
+
+**2. Bandage de Momie**
+
+Cette composante est relativement rare car *un animateur doit jouer le rôle d'une momie*. Un seul bandage par momie peut être utilisé par un même joueur.
+
+**3. Coeur de Démon**
+
+On dit qu'il n'y a pas plus noir qu'un cœur de démon. Attention à ne pas confondre démon et diable. Pour bien les différencier, vous pouvez étudier leur comportement (les diables sont loyaux et organisés, tandis que les démons agissent souvent seuls et de façon complètement chaotiques). *On doit d'abord tuer la créature avant de lui retirer son organe.*
+
+## Composantes reliées à l'école de la Nécromancie
+
+**1. Cheveux de Nécrophage**
+
+Cette composante est plutôt rare. Les nécrophages sont un type particulier de morts-vivants qui pourchassent sans relâche les vivants. On peut en invoquer à l'aide d'un invocateur, ou sinon, il faut qu'un animateur joue le rôle d'un nécrophage. *Les nécrophages ont rarement plus de 4 ou 5 cheveux qui peuvent servir de composante* : ceux qui ont encore une racine et qu'on doit arracher pour les ramasser; les autres, qui tombes au simple toucher, ne sont pas bons.
+
+**2. Sang Humain**
+
+Le sang des humains, ainsi que celui des races ayant des parents humains (aasimars, thiefelins et demi-elfes) peut être utilisé comme composante magique, mais en quantité suffisante. Cela prend au moins 2 litres de sang, que ce soit pris sur un personnage vivant ou non (les morts-vivants ne peuvent être utilisés dans le cas présent). *Retirer une telle quantité de sang à un humanoïde vivant lui enlève 2 points de vie sur toutes les parties du corps.* Si le personnage utilisé n'a pas assez de points de vie, il faudra alors continuer avec un autre humanoïde jusqu'à ce que la quantité de points de vie soit atteinte.
+
+**3. Ongle d'Humanoïde**
+
+Il est relativement simple et douloureux de se procurer un tel item. Peu importe la provenance, n'importe quelle race peut servir pour l'obtention de cette composante.
+
+## Composantes reliées à l'école de la Transmutation
+
+**1. Mains de Mage**
+
+Ce n'est pas n'importe quel [Magicien](Magicien.md) qui va être prêt à vous donner ce genre de coup de main, mais bon, ce n'est pas toujours de son ressort. Une main tranchée est l'équivalent d'un effet de [**Liste des effets néfastes**](Liste%20des%20effets%20n%C3%A9fastes.md) sur le membre relié à la main. *La main d'un [Magicien](Magicien.md), peu importe la spécialisation ou celle d'un [Ensorceleur](Ensorceleur.md) peu faire l'affaire pour cette composante.*
+
+**2. Dent de Lycanthrope**
+
+Peu importe le type de [Lycanthrope](Lycanthrope.md) utilisé, il suffit de lui arracher une dent pour obtenir cette composante.
+
+**3. Dent de Vampire**
+
+Pas nécessairement les canines. N'importe quelle dent fait l'affaire d'un [Vampire](Vampire.md).

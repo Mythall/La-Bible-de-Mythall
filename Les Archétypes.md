@@ -1,0 +1,9 @@
+# Les Archétypes
+
+[Lycanthrope](Lycanthrope.md)
+[Vampire](Vampire.md)
+[Liche](Liche.md)
+[Fantôme](Fantôme.md)
+[Nephalem](Nephalem.md)
+
+Les archétypes représentent des transformations surnaturelles que peuvent subir les personnages au cours de leurs aventures. Ces états modifient profondément la nature du personnage, lui conférant des pouvoirs extraordinaires mais également de lourdes contraintes.
